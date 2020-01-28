@@ -1,0 +1,16 @@
+{
+  "name": "test-dbf-front",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "buffer": "^5.4.3",
+    "parcel": "^1.12.4",
+    "parsedbf": "^1.0.0"
+  }
+}
