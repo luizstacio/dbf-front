@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "buffer": "^5.4.3",
-    "parcel": "^1.12.4",
+    "parcel": "^2.8.2",
     "parsedbf": "^1.0.0"
   }
 }
